@@ -1,0 +1,114 @@
+body {background-color:ivory;
+font-family:"Century Gothic;"
+font-size:18px;
+text-align:left;}
+h1{color: #20B2AA;}
+h2{color:#6B8E23;}
+.golf{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #333;
+  }
+li {float:left;}
+li a{
+  display:inline-block;
+  color: white;
+  text-align: center;
+  padding: 30px 34px;
+  text-decoration: none;
+}
+li a:hover{background-color: #6B8E23;}
+.active{background-color: #333;}
+.alpha {color:#191970;
+  font-size: 18px;
+  text-align:center;
+  font-family: "Century Gothic";
+  font-style: italic;}
+.one {color: #191970;
+  font-size: 16px;
+  text-align: left;
+  font-family: "Century Gothic";
+  font-style:normal;
+  }
+.beta {color: black;
+  font-size: 16px;
+  text-align:left;
+  font-family: "Century Gothic";
+  font-style:normal;
+ }
+.contact {color:#191970;
+  font-size: 16px;
+  text-align: left;
+  font-family: "Century Gothic";
+  font-style: normal;
+  }
+.charlie{
+  background-color:ivory;
+  color:black;
+  font-family:"Century Gothic";
+  text-align: left;
+  font-size:16px;
+}
+.delta{
+  background-color:ivory;
+  color:black;
+  font-family:"Century Gothic";
+font-size:16px;
+}
+.echo{
+  font-family:"Century Gothic";
+}
+.foxtrot{
+  background-color: #333;
+  color:white;
+}
+.hotel{
+  width:900px;
+  height:400px;
+  z-index:5
+  border:2pt;
+}
+.india{
+  position:relative;
+  text-align:center;
+  color:#008080;
+  font-size:30px;
+}
+.centertext{
+  position:absolute;
+  top:55%;
+  left:40%;
+  transform: translate (-50%, -50%);
+}
+.juliet{
+  position:relative;
+  text-align:center;
+  color: #00330d;
+  font-size:30px;
+}
+.textcenter{
+  position:absolute;
+  top:80%;
+  left:20%;
+  transform:translate (-50%,-50%);
+}
+.kilo{
+  position:relative;
+  text-align:center;
+  color: #e60000;
+  font-size:35px;
+}
+.textmain{
+  position:absolute;
+  top:75%;
+  left:50%;
+  transform: translate (-50%, -50%);
+}
+.lima{
+  position:relative;
+  text-align:center;
+  color:#008080;
+  font-size:30px;
+}
